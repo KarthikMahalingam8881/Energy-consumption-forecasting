@@ -26,7 +26,7 @@ This project is part of the CSE 572 Data Mining course. The objective is to appl
 
 ## Project Structure
 - `FinalProject-CSE572-DataMining.ipynb`: Jupyter Notebook containing the code and analysis.
-- `data/`: Directory containing the dataset (not included in the repository).
+- `data/`: Directory containing the dataset.
 - `models/`: Directory to save trained models(not included in the repository).
 - `results/`: Directory to save the results and visualizations (not included in the repository).
 
