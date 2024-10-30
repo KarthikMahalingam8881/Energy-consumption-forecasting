@@ -62,8 +62,6 @@ The model's performance is evaluated using appropriate metrics, and the results 
 ## Results
 The results of the model training and evaluation are plotted using Matplotlib to provide insights into the model's performance.
 
-## Source Code
-The source code for this project is maintained in a private repository. For access, please contact kmahali2@asu.edu.
 
 ## Contributing
 If you wish to contribute to this project, please fork the repository and submit a pull request.
